@@ -1,8 +1,8 @@
 class Gobi < Formula
   desc "CLI client for the Gobi collaborative knowledge platform"
   homepage "https://github.com/gobi-ai/gobi-cli"
-  url "https://registry.npmjs.org/@gobi-ai/cli/-/cli-0.6.20.tgz"
-  sha256 "d438c2d023b7836704fabff07a0bed4c8e9881431037e3f207b3ebc5cf6cf00a"
+  url "https://registry.npmjs.org/@gobi-ai/cli/-/cli-0.7.0.tgz"
+  sha256 "5ec499b700576eb6790d61ef55401560a3dfee10c639af5ece655e7601b819ac"
   license "MIT"
 
   depends_on "node"
